@@ -1,4 +1,4 @@
-# subtranslator
+# sub-translator: a subtitles translator script
 Script for translating foreign text files into english
 
 I've made this script to translate the subtitles of a russian MOOC. In XXI, language shouldn't be a barrier to learn.
